@@ -3,7 +3,7 @@
 // option + cmd + n 新建个分支
 import Cocoa
 
-//: for循环
+//:for循环
 // 3.0 去掉了C语言风格的循环
 for i in 0..<10{
     print(i)

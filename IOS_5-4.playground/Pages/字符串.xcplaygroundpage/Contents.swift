@@ -43,7 +43,7 @@ let timeStr = String(format: "%02d:%02d:%02d", arguments: [h,m,s])
 let timeStr1 = String(format: "%02d:%02d:%02d", h,m,s)
 let dateFormatter = DateFormatter()
 
-let timeStr2 = String(describing: DateFormatter.self)
+let timeStr2 = String(describing: dateFormatter.self)
 
 
 /**********************************************************************
